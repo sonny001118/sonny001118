@@ -36,49 +36,26 @@ I enjoy transforming cutting-edge AI research into scalable, reliable products t
 
 ## ⚙️ Tech Stack
 
-### Languages
+### 💻 Languages
+Python • Go • Java • TypeScript • JavaScript • C# • SQL
 
-Python • Go • Java • TypeScript • JavaScript • C# • SQL • Bash
+### 🤖 AI
+LLMs • Generative AI • Agentic AI • LangChain • LangGraph • LlamaIndex • RAG • PyTorch • TensorFlow • Scikit-learn
 
-### AI & Machine Learning
+### ⚙️ Backend
+FastAPI • Django • Flask • Node.js • .NET • REST APIs • gRPC
 
-Large Language Models (LLMs) • Generative AI • Agentic AI • Retrieval-Augmented Generation (RAG) • LangChain • LangGraph • LlamaIndex • OpenAI SDK • Prompt Engineering • Fine-Tuning • Model Evaluation • NLP • Deep Learning • Recommendation Systems • Learning-to-Rank • Forecasting
+### ☁️ Cloud
+AWS • Docker • Kubernetes • Terraform • Linux
 
-### Machine Learning
+### 📊 Data
+Spark • Kafka • Airflow • PostgreSQL • MongoDB • Redis • OpenSearch • Pinecone
 
-PyTorch • TensorFlow • Scikit-learn • XGBoost
+### 📈 MLOps
+MLflow • Weights & Biases • Prometheus • Grafana • CI/CD
 
-### Backend
-
-FastAPI • Django • Flask • Node.js • .NET • REST APIs • gRPC • Microservices • Distributed Systems
-
-### Data Engineering
-
-Apache Spark • Airflow • Kafka • Databricks • Pandas • NumPy • ETL • Streaming
-
-### Databases
-
-PostgreSQL • MySQL • MongoDB • Redis • DynamoDB • Snowflake • Amazon Aurora • Amazon Redshift • BigQuery
-
-### Vector Search
-
-OpenSearch • Pinecone • FAISS • Embedding Models
-
-### Cloud & DevOps
-
-AWS • SageMaker • Bedrock • ECS • EKS • Lambda • S3 • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • Linux
-
-### MLOps
-
-MLflow • Weights & Biases • Experiment Tracking • Model Registry • Model Deployment • Online & Batch Inference • Monitoring • Drift Detection • Prometheus • Grafana • CI/CD
-
-### Frontend
-
-React • Next.js • Vue • Angular • HTML5 • CSS3 • Tailwind CSS
-
-### Security
-
-OAuth 2.0 • JWT • IAM • RBAC • HIPAA • GDPR • SOC 2
+### 🎨 Frontend
+React • Next.js • Tailwind CSS
 
 ---
 
