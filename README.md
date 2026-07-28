@@ -36,27 +36,107 @@ I enjoy transforming cutting-edge AI research into scalable, reliable products t
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
-Python • Go • Java • TypeScript • JavaScript • C# • SQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 AI
-LLMs • Generative AI • Agentic AI • LangChain • LangGraph • LlamaIndex • RAG • PyTorch • TensorFlow • Scikit-learn
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,java,ts,js,cs,bash" height="32"/>
+</p>
+
+Python • Go • Java • TypeScript • JavaScript • C# • SQL • Bash
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="32"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,openai" height="32"/>
+</p>
+
+LLMs • Generative AI • Agentic AI • RAG • LangChain • LangGraph • LlamaIndex • Prompt Engineering • Fine-Tuning • Model Evaluation • NLP • Deep Learning
+
+---
 
 ### ⚙️ Backend
-FastAPI • Django • Flask • Node.js • .NET • REST APIs • gRPC
 
-### ☁️ Cloud
-AWS • Docker • Kubernetes • Terraform • Linux
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,dotnet" height="32"/>
+</p>
 
-### 📊 Data
-Spark • Kafka • Airflow • PostgreSQL • MongoDB • Redis • OpenSearch • Pinecone
+FastAPI • Django • Flask • Node.js • .NET • REST APIs • gRPC • Microservices • Distributed Systems
+
+---
+
+### 📊 Data Engineering
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=spark,kafka,airflow,pandas,numpy" height="32"/>
+</p>
+
+Apache Spark • Airflow • Kafka • Databricks • Pandas • NumPy • ETL • Streaming
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="32"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb,snowflake" height="32"/>
+</p>
+
+PostgreSQL • MySQL • MongoDB • Redis • DynamoDB • Snowflake • Aurora • Redshift • BigQuery
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔍 Vector Search
+
+OpenSearch • Pinecone • FAISS • Embedding Models
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux" height="32"/>
+</p>
+
+AWS • SageMaker • Bedrock • ECS • EKS • Lambda • S3 • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • Linux
+
+---
 
 ### 📈 MLOps
-MLflow • Weights & Biases • Prometheus • Grafana • CI/CD
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow,prometheus,grafana" height="32"/>
+</p>
+
+MLflow • Weights & Biases • Model Registry • Model Deployment • Online & Batch Inference • Monitoring • Drift Detection • Prometheus • Grafana • CI/CD
+
+---
 
 ### 🎨 Frontend
-React • Next.js • Tailwind CSS
 
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind" height="32"/>
+</p>
+
+React • Next.js • Vue • Angular • HTML5 • CSS3 • Tailwind CSS
+
+---
+
+### 🔐 Security
+
+OAuth 2.0 • JWT • IAM • RBAC • HIPAA • GDPR • SOC 2
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🤝 Connect
