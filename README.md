@@ -1,134 +1,134 @@
 <h1 align="center">Hi 👋, I'm Willy Liang</h1>
-
-<h3 align="center">
-Senior Software Engineer | AI Engineer | Full Stack Developer
-</h3>
+<h3 align="center">Senior Machine Learning Engineer | Generative AI | LLMs | MLOps</h3>
 
 <p align="center">
-Building scalable AI-powered applications, cloud-native platforms, and modern web experiences.
+Building production AI systems that scale from research to millions of users.
 </p>
 
 <p align="center">
-  <a href="https://willy-liang.netlify.app">
-    🌐 Portfolio
+  <a href="https://github.com/sonny001118">
+    <img src="https://img.shields.io/github/followers/sonny001118?label=Followers&style=for-the-badge" />
   </a>
-  •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    LinkedIn
-  </a>
-  •
-  <a href="mailto:YOUR_EMAIL">
-    Email
+  <a href="https://github.com/sonny001118">
+    <img src="https://komarev.com/ghpvc/?username=sonny001118&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-- 💼 Senior Software Engineer with **8+ years** of experience
-- 🤖 Passionate about **Generative AI, LLMs, AI Agents, and RAG**
-- ☁️ Building cloud-native applications on **AWS & Azure**
-- ⚡ Backend specialist with **Node.js, Python, .NET, Go**
-- 🌐 Full Stack experience using **React, Next.js, TypeScript**
-- 🚀 Love designing scalable distributed systems and developer tools
+I'm a Senior Machine Learning Engineer with 9+ years of experience building
+production AI systems across foundation models, healthcare AI, and consumer-scale
+machine learning platforms.
+
+Recently I've been focused on
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Agentic AI
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ Distributed Training
+- ☁️ MLOps
+- 🚀 Production ML Infrastructure
+
+I enjoy turning cutting-edge AI research into reliable products used at scale.
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Areas of Expertise
+
+- Generative AI
+- LLM Applications
+- AI Agents
+- LangGraph
+- LangChain
+- Prompt Engineering
+- Model Evaluation
+- MLOps
+- Distributed ML
+- Recommendation Systems
+- Search Ranking
+- NLP
+- Feature Engineering
+
+---
+
+# ⚙️ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+Python • Go • Java • Node.js • TypeScript • SQL
 
-### Frontend
+### AI / ML
 
-React • Next.js • Angular • Vue • Tailwind CSS
+PyTorch • TensorFlow • Scikit-learn • XGBoost
 
-### Backend
+### LLM
 
-Node.js • Python • .NET • FastAPI • Express • REST APIs • GraphQL
+OpenAI • LangChain • LangGraph • LlamaIndex • RAG
 
-### AI
+### Cloud
 
-OpenAI • Claude • LangChain • LangGraph • RAG • AI Agents • Vector Databases
+AWS • Kubernetes • Docker • Terraform
 
-### Cloud & DevOps
+### Data
 
-AWS • Azure • Docker • Kubernetes • Terraform • GitHub Actions • CI/CD
+Spark • Kafka • Airflow • PostgreSQL • Pinecone • OpenSearch
 
-### Databases
+### MLOps
 
-PostgreSQL • SQL Server • MongoDB • Redis • ClickHouse
+MLflow • W&B • GitHub Actions • Jenkins
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI Interview Assistant
-
-An AI-powered platform that helps software engineers prepare for technical interviews using LLMs, RAG, and modern AI workflows.
-
----
-
-### 📄 Intelligent Document Processing
-
-Automates document extraction, semantic search, and workflow automation using Retrieval-Augmented Generation.
-
----
-
-### ☁️ Cloud-native Enterprise Platform
-
-Designed scalable backend microservices, APIs, authentication, and distributed systems deployed on Kubernetes.
-
----
-
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonny001118&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonny001118&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonny001118&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonny001118&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sonny001118&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=sonny001118&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 🏆 Highlights
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark"/>
-
-</p>
-
----
-
-## 🎓 Education
-
-🎓 **Master of Science in Computer Science**
-
-University of Florida
+- 🚀 Production Generative AI Systems
+- 🤖 AI Agents & Multi-Agent Workflows
+- 🧠 Large Language Models
+- 🔍 Retrieval-Augmented Generation
+- ⚡ Distributed Training & Inference
+- 📊 Recommendation & Ranking Systems
+- ☁️ Cloud Native ML Platforms
+- 📈 End-to-End MLOps
 
 ---
 
-## 🌍 Connect with Me
+# 🎓 Education
 
-- 🌐 https://willy-liang.netlify.app
-- 💼 https://linkedin.com/in/julian-v-3100a083
+**Syracuse University**
+
+M.S. Computer Science
+
+**University of Florida**
+
+B.S. Computer Science
+
+---
+
+# 🌐 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/julian-v-3100a083
 - 📧 dev.willy.liang1118@gmail.com
