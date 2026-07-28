@@ -55,30 +55,115 @@ I enjoy turning cutting-edge AI research into reliable products used at scale.
 
 # ⚙️ Tech Stack
 
-### Languages
+## 💻 Programming Languages
 
-Python • Go • Java • Node.js • TypeScript • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,dotnet,bash" />
+</p>
 
-### AI / ML
+---
 
-PyTorch • TensorFlow • Scikit-learn • XGBoost
+## 🤖 AI / Machine Learning
 
-### LLM
+<p>
 
-OpenAI • LangChain • LangGraph • LlamaIndex • RAG
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-### Cloud
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" height="48"/>
 
-AWS • Kubernetes • Docker • Terraform
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="48"/>
 
-### Data
+</p>
 
-Spark • Kafka • Airflow • PostgreSQL • Pinecone • OpenSearch
+---
 
-### MLOps
+## 🧠 Generative AI & LLM
 
-MLflow • W&B • GitHub Actions • Jenkins
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="48"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" height="48"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="48"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex.png" height="48"/>
+</p>
 
+**OpenAI • LangChain • LangGraph • LlamaIndex • RAG • Prompt Engineering**
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux" />
+</p>
+
+---
+
+## ⚡ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" height="48"/>
+</p>
+
+---
+
+## 📊 Data Engineering
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spark,kafka,airflow,pandas,numpy" height="48"/>
+</p>
+
+---
+
+## 🔍 Vector Databases & Search
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opensearch" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pinecone" height="48"/>
+</p>
+
+**FAISS • OpenSearch • Pinecone**
+
+---
+
+## 📈 MLOps
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow,prometheus,grafana" height="48"/>
+</p>
+
+**Weights & Biases • Experiment Tracking • Model Registry • Drift Detection**
+
+---
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind" />
+</p>
+
+---
+
+## 🔐 Security
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oauth" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48"/>
+</p>
+
+**OAuth2 • JWT • IAM • RBAC • HIPAA • GDPR • SOC2**
 ---
 
 # 📈 GitHub Stats
