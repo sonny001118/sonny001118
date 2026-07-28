@@ -32,16 +32,6 @@ Building production AI systems from research to real-world applications.
 I'm a **Senior Machine Learning Engineer** with **9+ years** of experience building production AI systems across foundation models, healthcare, and consumer platforms.
 
 I enjoy transforming cutting-edge AI research into scalable, reliable products that serve millions of users.
-
-### Currently focused on
-
-* Large Language Models (LLMs)
-* Agentic AI
-* Retrieval-Augmented Generation (RAG)
-* Distributed Machine Learning
-* MLOps
-* AI Platform Engineering
-
 ---
 
 ## ⚙️ Tech Stack
@@ -89,29 +79,6 @@ React • Next.js • Vue • Angular • HTML5 • CSS3 • Tailwind CSS
 ### Security
 
 OAuth 2.0 • JWT • IAM • RBAC • HIPAA • GDPR • SOC 2
-
----
-
-## 🎯 Interests
-
-* 🤖 Generative AI
-* 🧠 Large Language Models
-* 🚀 Agentic AI
-* 🔍 Retrieval-Augmented Generation
-* ⚡ Distributed Machine Learning
-* ☁️ Cloud Native AI Platforms
-* 📊 Recommendation Systems
-* 🛠️ MLOps
-
----
-
-## 🎓 Education
-
-**M.S. Computer Science**
-Syracuse University
-
-**B.S. Computer Science**
-University of Florida
 
 ---
 
