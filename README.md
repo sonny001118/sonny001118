@@ -42,22 +42,34 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,dotnet,bash" alt="Programming languages" />
+  <img
+    src="https://skillicons.dev/icons?i=python,go,java,ts,js,dotnet,bash"
+    height="42"
+    alt="Python, Go, Java, TypeScript, JavaScript, .NET, and Bash"
+  />
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,openai" height="48" alt="Scikit-learn and OpenAI" />
+  <img
+    src="https://skillicons.dev/icons?i=pytorch,tensorflow"
+    height="42"
+    alt="PyTorch and TensorFlow"
+  />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,openai"
+    height="42"
+    alt="Scikit-learn and OpenAI"
+  />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6C3FF5?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-7B2CBF?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-20232A?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6C3FF5?style=flat-square" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-7B2CBF?style=flat-square" alt="AI Agents" />
 </p>
 
 <p>
@@ -71,7 +83,11 @@
 ### ⚙️ Backend Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" alt="Backend technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs"
+    height="42"
+    alt="FastAPI, Django, Flask, and Node.js"
+  />
 </p>
 
 <p>
@@ -84,35 +100,51 @@
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux" alt="Cloud and DevOps technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux"
+    height="42"
+    alt="AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, and Linux"
+  />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon SageMaker" />
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
-  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="Amazon EKS" />
-  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon SageMaker" />
+  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="Amazon EKS" />
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
 </p>
 
 ### 🗄️ Databases & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb,snowflake" height="48" alt="DynamoDB and Snowflake" />
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"
+    height="42"
+    alt="PostgreSQL, MySQL, MongoDB, and Redis"
+  />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb,snowflake"
+    height="42"
+    alt="DynamoDB and Snowflake"
+  />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Amazon Redshift" />
-  <img src="https://img.shields.io/badge/Amazon_Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon Aurora" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Amazon Redshift" />
+  <img src="https://img.shields.io/badge/Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon Aurora" />
 </p>
 
 ### 📊 Data Engineering
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spark,kafka,airflow,pandas,numpy" height="48" alt="Data engineering technologies" />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=spark,kafka,airflow,pandas,numpy"
+    height="42"
+    alt="Apache Spark, Kafka, Airflow, Pandas, and NumPy"
+  />
 </p>
 
 <p>
@@ -126,20 +158,28 @@
 ### 🔍 Vector Search & LLM Infrastructure
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opensearch,pinecone" height="48" alt="OpenSearch and Pinecone" />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=opensearch,pinecone"
+    height="42"
+    alt="OpenSearch and Pinecone"
+  />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/Embedding_Models-7209B7?style=for-the-badge" alt="Embedding Models" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Embedding_Models-7209B7?style=flat-square" alt="Embedding Models" />
 </p>
 
 ### 📈 MLOps & Observability
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow,prometheus,grafana" height="48" alt="MLOps technologies" />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=mlflow,prometheus,grafana"
+    height="42"
+    alt="MLflow, Prometheus, and Grafana"
+  />
 </p>
 
 <p>
@@ -154,19 +194,20 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind" alt="Frontend technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind"
+    height="42"
+    alt="React, Next.js, Vue, Angular, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS"
+  />
 </p>
 
 ### 🔐 Security & Compliance
 
 <p>
-  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth 2.0" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="IAM" />
-  <img src="https://img.shields.io/badge/RBAC-4361EE?style=for-the-badge" alt="RBAC" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white" alt="IAM" />
+  <img src="https://img.shields.io/badge/RBAC-4361EE?style=flat-square" alt="RBAC" />
   <img src="https://img.shields.io/badge/HIPAA-Compliant-2A9D8F?style=flat-square" alt="HIPAA" />
   <img src="https://img.shields.io/badge/GDPR-Compliant-003399?style=flat-square" alt="GDPR" />
   <img src="https://img.shields.io/badge/SOC_2-Compliant-6A4C93?style=flat-square" alt="SOC 2" />
@@ -178,12 +219,12 @@
 ## 🚀 Areas of Interest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" />
-  <img src="https://img.shields.io/badge/Agentic_AI-7B2CBF?style=for-the-badge" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Distributed_ML-D00000?style=for-the-badge" alt="Distributed ML" />
-  <img src="https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=flat-square&logo=openai&logoColor=white" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7B2CBF?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Distributed_ML-D00000?style=flat-square" alt="Distributed ML" />
+  <img src="https://img.shields.io/badge/MLOps-0194E2?style=flat-square" alt="MLOps" />
 </p>
 
 ---
@@ -192,20 +233,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/julian-v-3100a083">
-    <img src="https://img.shields.io/badge/LinkedIn-Willy_Liang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Willy_Liang-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dev.willy.liang1118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.willy.liang1118-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-dev.willy.liang1118-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/adam001118">
-    <img src="https://img.shields.io/badge/Telegram-@adam001118-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@adam001118-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-sonny011491__66994-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord username" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-sonny011491__66994-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username" />
-</p>
-
 
 ---
 
