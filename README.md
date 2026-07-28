@@ -103,7 +103,7 @@ Designed scalable backend microservices, APIs, authentication, and distributed s
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=sonny001118&theme=github-dark"/>
 
 </p>
 
